@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cernei13/test-app/static/css/main.dc80761a.chunk.css",
+    "main.js": "/cernei13/test-app/static/js/main.713f70cc.chunk.js",
+    "main.js.map": "/cernei13/test-app/static/js/main.713f70cc.chunk.js.map",
+    "runtime-main.js": "/cernei13/test-app/static/js/runtime-main.586d3488.js",
+    "runtime-main.js.map": "/cernei13/test-app/static/js/runtime-main.586d3488.js.map",
+    "static/js/2.a5c728eb.chunk.js": "/cernei13/test-app/static/js/2.a5c728eb.chunk.js",
+    "static/js/2.a5c728eb.chunk.js.map": "/cernei13/test-app/static/js/2.a5c728eb.chunk.js.map",
+    "index.html": "/cernei13/test-app/index.html",
+    "static/css/main.dc80761a.chunk.css.map": "/cernei13/test-app/static/css/main.dc80761a.chunk.css.map",
+    "static/js/2.a5c728eb.chunk.js.LICENSE.txt": "/cernei13/test-app/static/js/2.a5c728eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.586d3488.js",
+    "static/js/2.a5c728eb.chunk.js",
+    "static/css/main.dc80761a.chunk.css",
+    "static/js/main.713f70cc.chunk.js"
+  ]
+}
